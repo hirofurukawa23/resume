@@ -32,5 +32,5 @@ GENESIS 株式会社 代表取締役社長
 | 2010 | 3   | 千葉県立八千代高等学校普通科 卒業                      |
 | 2011 | 4   | 明治学院大学経済学部経営学科 入学                      |
 | 2012 | 3   | 明治学院大学経済学部経営学科 中退                      |
-| 2012 | 4   | IPU NewZealand Bachelor of International Business 入学 |
-| 2012 | 12  | IPU NewZealand Bachelor of International Business 卒業 |
+| 2014 | 4   | IPU NewZealand Bachelor of International Business 入学 |
+| 2015 | 12  | IPU NewZealand Bachelor of International Business 卒業 |
